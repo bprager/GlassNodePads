@@ -1,4 +1,5 @@
-# Nose Pads for my pair of glasses
+# GlassNodePads
 
 3D printable nose pads
-# GlassNodePads
+
+![Drawing](./Drawing.svg)

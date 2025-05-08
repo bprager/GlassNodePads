@@ -12,6 +12,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Design mounting stem
 
 
+## [0.1.1] - Wed May  7 18:27:05 PDT 2025
+
+### Added
+
+- Nose pad
+- Technical drawing
+
+### Updated
+
+- README.md
+
+
 ## [0.1.0] - Wed May  7 17:53:00 PDT 2025
 
 ### Added
